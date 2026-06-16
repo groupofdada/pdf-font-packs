@@ -1,64 +1,56 @@
 {
-  "gujarati": {
-    "name": "Gujarati",
-    "zip": "gujarati.zip",
-    "folder": "gujarati"
-  },
-
-  "tamil": {
-    "name": "Tamil",
-    "zip": "tamil.zip",
-    "folder": "tamil"
-  },
-
-  "telugu": {
-    "name": "Telugu",
-    "zip": "telugu.zip",
-    "folder": "telugu"
-  },
-
-  "kannada": {
-    "name": "Kannada",
-    "zip": "kannada.zip",
-    "folder": "kannada"
-  },
-
-  "malayalam": {
-    "name": "Malayalam",
-    "zip": "malayalam.zip",
-    "folder": "malayalam"
-  },
-
-  "thai": {
-    "name": "Thai",
-    "zip": "thai.zip",
-    "folder": "thai"
-  },
-
-  "japanese": {
-    "name": "Japanese",
-    "zip": "japanese.zip",
-    "folder": "japanese"
-  },
-
-
-  "chinese": {
-    "name": "Chinese Simplified",
-    "zip": "chinese-sc.zip",
-    "folder": "chinese"
-  },
-
-
-
-  "arabic": {
-    "name": "Arabic",
-    "zip": "arabic.zip",
-    "folder": "arabic"
-  },
-  
-"oriya": {
-  "name": "Oriya",
-  "zip": "oriya.zip",
-  "folder": "oriya"
-}
+  "version": 1,
+  "base_url": "https://raw.githubusercontent.com/groupofdada/pdf-font-packs/main/",
+  "packs": [
+    {
+      "id": "arabic",
+      "name": "Arabic",
+      "zip": "arabic.zip"
+    },
+    {
+      "id": "gujarati",
+      "name": "Gujarati",
+      "zip": "gujarati.zip"
+    },
+    {
+      "id": "tamil",
+      "name": "Tamil",
+      "zip": "tamil.zip"
+    },
+    {
+      "id": "telugu",
+      "name": "Telugu",
+      "zip": "telugu.zip"
+    },
+    {
+      "id": "kannada",
+      "name": "Kannada",
+      "zip": "kannada.zip"
+    },
+    {
+      "id": "malayalam",
+      "name": "Malayalam",
+      "zip": "malayalam.zip"
+    },
+    {
+      "id": "oriya",
+      "name": "Odia",
+      "zip": "oriya.zip"
+    },
+    {
+      "id": "thai",
+      "name": "Thai",
+      "zip": "thai.zip"
+    },
+    {
+      "id": "japanese",
+      "name": "Japanese",
+      "zip": "japanese.zip"
+    },
+    {
+      "id": "chinese_sc",
+      "name": "Chinese Simplified",
+      "zip": "chinese-sc.zip"
+    }
+  ]
 }
