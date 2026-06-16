@@ -1,0 +1,64 @@
+{
+  "gujarati": {
+    "name": "Gujarati",
+    "zip": "gujarati.zip",
+    "folder": "gujarati"
+  },
+
+  "tamil": {
+    "name": "Tamil",
+    "zip": "tamil.zip",
+    "folder": "tamil"
+  },
+
+  "telugu": {
+    "name": "Telugu",
+    "zip": "telugu.zip",
+    "folder": "telugu"
+  },
+
+  "kannada": {
+    "name": "Kannada",
+    "zip": "kannada.zip",
+    "folder": "kannada"
+  },
+
+  "malayalam": {
+    "name": "Malayalam",
+    "zip": "malayalam.zip",
+    "folder": "malayalam"
+  },
+
+  "thai": {
+    "name": "Thai",
+    "zip": "thai.zip",
+    "folder": "thai"
+  },
+
+  "japanese": {
+    "name": "Japanese",
+    "zip": "japanese.zip",
+    "folder": "japanese"
+  },
+
+
+  "chinese": {
+    "name": "Chinese Simplified",
+    "zip": "chinese-sc.zip",
+    "folder": "chinese"
+  },
+
+
+
+  "arabic": {
+    "name": "Arabic",
+    "zip": "arabic.zip",
+    "folder": "arabic"
+  },
+  
+"oriya": {
+  "name": "Oriya",
+  "zip": "oriya.zip",
+  "folder": "oriya"
+}
+}
